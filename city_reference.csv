@@ -1,0 +1,11 @@
+city,state,population_approx_millions,area_km2,region
+Indore,Madhya Pradesh,3.5,530,Central
+Delhi,Delhi,32.0,1484,North
+Mumbai,Maharashtra,20.7,603,West
+Bengaluru,Karnataka,13.6,741,South
+Gurugram,Haryana,1.15,732,North
+Jalandhar,Punjab,0.9,100,North
+Hyderabad,Telangana,10.5,650,South
+Chennai,Tamil Nadu,11.5,426,South
+Pune,Maharashtra,7.4,331,West
+Kolkata,West Bengal,15.1,205,East

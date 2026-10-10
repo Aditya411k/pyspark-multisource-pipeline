@@ -1,0 +1,11 @@
+city,temp_c,feels_like_c,min_temp_c,max_temp_c,humidity,wind_speed_ms,condition,description,recorded_at,state,population_approx_millions,area_km2,region,density_per_sq_km,comfort_level,heat_exposure_Score
+Bengaluru,28.17,28.64,27.18,29.36,50,3.6,Clouds,overcast clouds,2026-10-10 05:30:03,Karnataka,13.6,741,South,18353.6,Pleasant,517.02
+Chennai,32.27,39.27,31.67,33.99,67,2.68,Clouds,scattered clouds,2026-10-10 05:28:32,Tamil Nadu,11.5,426,South,26995.3,Hot,871.14
+Delhi,28.96,32.64,28.96,29.05,70,3.6,Clear,clear sky,2026-10-10 05:31:23,Delhi,32.0,1484,North,21563.3,Pleasant,624.47
+Gurugram,29.02,31.88,28.94,29.02,65,3.6,Clear,clear sky,2026-10-10 05:35:04,Haryana,1.15,732,North,1571.0,Pleasant,45.59
+Hyderabad,31.23,31.53,30.73,31.23,42,4.63,Clear,clear sky,2026-10-10 05:30:10,Telangana,10.5,650,South,16153.8,Hot,504.48
+Indore,32.1,31.05,32.1,32.1,31,3.6,Clear,clear sky,2026-10-10 05:27:38,Madhya Pradesh,3.5,530,Central,6603.8,Hot,211.98
+Jalandhar,30.98,30.75,30.98,30.98,39,4.49,Clear,clear sky,2026-10-10 05:35:06,Punjab,0.9,100,North,9000.0,Hot,278.82
+Kolkata,28.97,31.78,28.97,28.97,65,4.63,Clear,clear sky,2026-10-10 05:33:34,West Bengal,15.1,205,East,73658.5,Pleasant,2133.89
+Mumbai,34.99,38.14,33.94,34.99,43,4.12,Clear,clear sky,2026-10-10 05:24:27,Maharashtra,20.7,603,West,34328.4,Hot,1201.15
+Pune,32.86,31.57,31.34,32.86,28,0.45,Clear,clear sky,2026-10-10 05:30:01,Maharashtra,7.4,331,West,22356.5,Hot,734.63
